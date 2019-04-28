@@ -19,6 +19,10 @@ class ViewController: UIViewController {
         print("Soy el Primer Print")
         print("Soy el segundo Print")
         print("Soy el tercero Print")
+        print("Soy el cuarto Print")
+        print("Soy el quinto Print")
+        print("Soy el sexto Print")
+        print("Soy el septimo Print")
 
         
 
