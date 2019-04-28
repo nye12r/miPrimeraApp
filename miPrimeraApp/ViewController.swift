@@ -22,7 +22,6 @@ class ViewController: UIViewController {
         print("Soy el cuarto Print")
         print("Soy el quinto Print")
         print("Soy el sexto Print")
-        print("Soy el septimo Print")
 
         
 
